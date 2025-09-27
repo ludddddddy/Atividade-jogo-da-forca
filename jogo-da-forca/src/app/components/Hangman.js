@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Word from "./Word";
 import Keyboard from "./Keyboard";
 import HangmanDrawing from "./HangmanDrawing";
-import words from "@/lib/words";
+import words from "./lib/words";
 
 const MAX_ERRORS = 10;
 

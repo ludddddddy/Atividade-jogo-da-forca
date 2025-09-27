@@ -1,5 +1,5 @@
 
-import Hangman from "@/component/Hangman";
+import Hangman from "@/components/Hangman";
 
 export default function Home() {
   return (
